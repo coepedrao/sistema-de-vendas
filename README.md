@@ -48,6 +48,10 @@ Funcionalidades Detalhadas
 * Tabela de Vendas: Exibe todas as vendas em ordem decrescente de ID. Os dados são exibidos nas colunas ID, Produto, Valor e Data.
 * Exportação para PDF: Ao clicar em "Exportar PDF", o sistema criará um arquivo PDF contendo todas as vendas registradas, formatadas e organizadas.
 
-Exemplo de Tela
-Aqui está uma captura de tela da interface gráfica do sistema:
+Exemplo de Tela:
+
+![Tabela](tabela.png)
+
+
+
 
