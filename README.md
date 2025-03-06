@@ -23,7 +23,7 @@ Instale as dependências utilizando `pip`:
 pip install reportlab
 ```
 
-Nota: tkinter e sqlite3 geralmente já vêm com o Python, então você não precisará instalá-las separadamente.
+Nota: tkinter e sqlite3 geralmente já vêm com o Python, então você não precisará instalá-las separadamente
 
 Como Usar
 1. Clone este repositório para o seu computador:
